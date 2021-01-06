@@ -1,0 +1,1 @@
+g++ Object/Member.cpp ObjectData/MemberData.cpp main.cpp -o main.exe
